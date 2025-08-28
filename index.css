@@ -6435,7 +6435,7 @@ body:not(.using-mouse) .header__drawer .header__nav-group-link:focus {
   grid-template-rows: max-content;
   position: relative;
   z-index: 0;
-  max-height: 375px;
+  max-height: 400px;
 }
 .app-title__inner::before {
   content: "";
